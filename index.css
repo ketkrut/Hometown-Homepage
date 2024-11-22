@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    color: #283618;
+    box-sizing: border-box;
+}
+
+.hero-section {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-content: center;
+    height: 350px;
+    background-image: url("images/mountian.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+
+.hero-headline, .hero-sub-headline {
+    background: #dda15e;
+    background-color: rgba(221, 161, 94, 0.8);
+    border-radius: 12px;
+    font-family: Sunnyheader;
+}
+
+.hero-headline {
+    padding: 3px 12px;
+    font-size: 2.5rem;
+}
+
+.hero-sub-headline {
+    width: 400px;
+    padding: 8px 25px;
+    font-size: 1.5rem;   
+}
+
+.attractions-section {
+    background: #fefae0;
+    padding: 40px 0 30px 0;
+}
+
+.attractions-headline {
+    margin: 0;
+    padding: 0 0 60px 0;
+    font-size: 1.4rem;
+}
+
+.attractions-types-container {
+    max-width: 800px;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    margin: 0 auto;
+}
+
+.attractions-type {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+}
+
+.attractions-img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    box-shadow: 1px 1px 6px;
+}
+
+#attractions-mountains-img {
+    background-image: url("images/DoiSuthep.jpg");
+    background-size: cover;
+}
+
+#attractions-doiinthanon-img {
+    background-image: url("images/DoiInthanon.jpg");
+    background-size: cover;
+}
+
+#attractions-nimmanhaemin-img {
+    background-image: url("images/Nimmanhaemin.jpg");
+    background-size: cover;
+}
+
+.attractions-title {
+    margin-top: 30px;
+}
+
+.attractions-description {
+    margin: 0;
+    line-height: ;
+}
+
+.guide-section {
+    display: flex;
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px 0px 20px 20px;
+    background-color: #d4e09b; 
+    border-radius: 12px;
+    box-shadow: 4px 4px 4px #C7CBD4;
+}
+
+#guide-img {
+    height: 150px;
+    width: 150px;
+    border: 3px double #606c38;
+    border-radius: 12px;
+}
+
+.guide-title {
+    color: #fff;;
+    text-shadow: 0 0 4px #000;
+    letter-spacing: 1.5px;
+}
+
+.guide-introduction {
+    padding: 0 20px 0 20px;
+    line-height: 1.5;
+}
+
+
+
+
+
+
+        
