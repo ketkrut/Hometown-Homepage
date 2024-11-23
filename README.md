@@ -1,19 +1,23 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# My First Homepage Project: Discover Chiang Mai 🌸
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Welcome to my first web development project! This website is dedicated to showcasing my hometown, Chiang Mai, and its top three attractions. It's a simple, beginner-friendly project that highlights what makes Chiang Mai so special.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🌟 Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- **Explore Top Attractions**: Learn about the three must-visit spots in Chiang Mai.
+- **Clean and Simple Design**: A user-friendly interface designed for easy navigation.
+- **Responsive Layout**: Optimized for desktops, tablets, and mobile devices.
 
-Happy Coding!
+## 🏙️ Attractions Included
+
+1. **Doi Suthep Temple**: A stunning hilltop temple with breathtaking views.
+2. **Nimmanhaemin Road**: A trendy neighborhood with great food, cafes, and shopping.
+3. **Doi Inthanon**: The national park features lush forests, stunning waterfalls, and scenic hiking trails.
+
+## 🚀 Installation
+
+To view this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ketkrut/Hometown-Homepage.git
